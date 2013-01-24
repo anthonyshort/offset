@@ -9,8 +9,8 @@
 
 ## API
 
-   offset(document.querySelector('#foo')).top
-   offset(document.querySelector('#bar')).left
+    offset(document.querySelector('#foo')).top
+    offset(document.querySelector('#bar')).left
 
 ## License
 
