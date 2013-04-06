@@ -1,0 +1,17 @@
+{
+  "name": "anthonyshort-offset",
+  "description": "Get the x/y offset of an element",
+  "main": "index.js",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/anthonyshort/offset.git"
+  },
+  "keywords": [
+    "browser", 
+    "DOM"
+  ],
+  "author": "Anthony Short",
+  "license": "MIT",
+  "dependencies": {}
+}
