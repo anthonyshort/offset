@@ -1,5 +1,5 @@
 {
-  "name": "anthonyshort-offset",
+  "name": "offset",
   "description": "Get the x/y offset of an element",
   "main": "index.js",
   "version": "0.0.1",
